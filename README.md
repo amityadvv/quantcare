@@ -6,9 +6,3 @@ This is a website for Quant Care, an organization dedicated to blood donation. T
 - Donate Blood
 - Contact Us
 - Success Stories
-
-## Setup
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/quant_care_website.git
